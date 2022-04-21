@@ -1,0 +1,10 @@
+C:\Users\IMPLEMENTADOR\source\repos\Proceso\Ejecutador\bin\Debug\Ejecutador.exe.config
+C:\Users\IMPLEMENTADOR\source\repos\Proceso\Ejecutador\bin\Debug\Ejecutador.exe
+C:\Users\IMPLEMENTADOR\source\repos\Proceso\Ejecutador\bin\Debug\Ejecutador.pdb
+C:\Users\IMPLEMENTADOR\source\repos\Proceso\Ejecutador\obj\Debug\Ejecutador.Form1.resources
+C:\Users\IMPLEMENTADOR\source\repos\Proceso\Ejecutador\obj\Debug\Ejecutador.Properties.Resources.resources
+C:\Users\IMPLEMENTADOR\source\repos\Proceso\Ejecutador\obj\Debug\Ejecutador.csproj.GenerateResource.cache
+C:\Users\IMPLEMENTADOR\source\repos\Proceso\Ejecutador\obj\Debug\Ejecutador.csproj.CoreCompileInputs.cache
+C:\Users\IMPLEMENTADOR\source\repos\Proceso\Ejecutador\obj\Debug\Ejecutador.exe
+C:\Users\IMPLEMENTADOR\source\repos\Proceso\Ejecutador\obj\Debug\Ejecutador.pdb
+C:\Users\IMPLEMENTADOR\source\repos\Proceso\Ejecutador\obj\Debug\Ejecutador.csprojAssemblyReference.cache
